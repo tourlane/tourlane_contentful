@@ -16,8 +16,8 @@ In our space, you can check here [all content types we have defined](https://app
 ## Problem
 
 * You can use the bootstrapped rails application provided here, or start a new application from scratch if you prefer.
-* Deliver as much as you can of the following scenario
+* Deliver as much as you can of the following scenarios
     - An index page that shows a list of titles of only published post entries from our space
     - Each published post title is a clickable link that leads to a show page that shows the title and body of this post
-* We expect tests, Try to demonstrate production quality but of course use hacks to cut down time just make sure to loudly point out how you would do it differently in production.
+* We expect tests, Try to demonstrate production quality but of course use workarounds to cut down time just make sure to loudly point out how you would do it differently in production.
 
